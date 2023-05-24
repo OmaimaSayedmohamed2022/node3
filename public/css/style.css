@@ -1,0 +1,21 @@
+form {
+    width: 400px;
+      margin: auto;
+      margin-top: 200px;
+      padding: 20px;
+      background-color: rgba(169, 211, 245,0.5);
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)
+}
+input,button{
+    display: block;
+    margin: auto;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+}
+p{
+   margin-left: 50px;
+}
